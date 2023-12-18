@@ -1,5 +1,5 @@
 {
-    "name": "stratum-pool",
+    "name": "belnomp-stratum-pool",
     "version": "0.2.0",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
@@ -14,9 +14,9 @@
         "yespower",
         "lyra2re2"
     ],
-    "homepage": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool",
+    "homepage": "https://github.com/belgorod-nomp/belnomp-stratum-pool",
     "bugs": {
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool/issues"
+        "url": "https://github.com/belgorod-nomp/belnomp-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool.git"
+        "url": "https://github.com/belgorod-nomp/belnomp-stratum-pool.git"
     },
     "dependencies": {
         "async": "^3.2.0",
@@ -35,7 +35,7 @@
         "bchaddrjs": "^0.4.9",
         "bignum": "^0.13.1",
         "bitcoinjs-lib": "^5.1.10",
-        "multi-hashing": "https://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing.git"
+        "multi-hashing": "https://github.com/belgorod-nomp/belnomp-multi-hashing.git"
     },
     "engines": {
         "node": ">=8.11"
